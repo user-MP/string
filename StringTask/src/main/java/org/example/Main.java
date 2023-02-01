@@ -56,15 +56,10 @@ public class Main {
 
 
     public static void main(String[] args) {
-         
-  
-
-
-
-//        Third task
-//        String word1="world around";
-//        String word2="round a world";
-//        System.out.println(isAnagram(word1,word2));
+          
+        String word1="world around";
+        String word2="round a world";
+        System.out.println(isAnagram(word1,word2));
 
 
     }
